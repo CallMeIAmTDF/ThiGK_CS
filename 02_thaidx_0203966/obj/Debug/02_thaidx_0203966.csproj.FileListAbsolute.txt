@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\02_thaidx_0203966\02_thaidx_0203966\bin\Debug\02_thaidx_0203966.exe.config
+C:\Users\admin\source\repos\02_thaidx_0203966\02_thaidx_0203966\bin\Debug\02_thaidx_0203966.exe
+C:\Users\admin\source\repos\02_thaidx_0203966\02_thaidx_0203966\bin\Debug\02_thaidx_0203966.pdb
+C:\Users\admin\source\repos\02_thaidx_0203966\02_thaidx_0203966\obj\Debug\02_thaidx_0203966.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\02_thaidx_0203966\02_thaidx_0203966\obj\Debug\02_thaidx_0203966.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\02_thaidx_0203966\02_thaidx_0203966\obj\Debug\02_thaidx_0203966.exe
+C:\Users\admin\source\repos\02_thaidx_0203966\02_thaidx_0203966\obj\Debug\02_thaidx_0203966.pdb
+D:\Download\02_thaidx_0203966\02_thaidx_0203966\02_thaidx_0203966\bin\Debug\02_thaidx_0203966.exe.config
+D:\Download\02_thaidx_0203966\02_thaidx_0203966\02_thaidx_0203966\bin\Debug\02_thaidx_0203966.exe
+D:\Download\02_thaidx_0203966\02_thaidx_0203966\02_thaidx_0203966\bin\Debug\02_thaidx_0203966.pdb
+D:\Download\02_thaidx_0203966\02_thaidx_0203966\02_thaidx_0203966\obj\Debug\02_thaidx_0203966.csproj.AssemblyReference.cache
+D:\Download\02_thaidx_0203966\02_thaidx_0203966\02_thaidx_0203966\obj\Debug\02_thaidx_0203966.csproj.CoreCompileInputs.cache
+D:\Download\02_thaidx_0203966\02_thaidx_0203966\02_thaidx_0203966\obj\Debug\02_thaidx_0203966.exe
+D:\Download\02_thaidx_0203966\02_thaidx_0203966\02_thaidx_0203966\obj\Debug\02_thaidx_0203966.pdb
